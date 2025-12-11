@@ -1,0 +1,22 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+
+# Environment / secrets
+.env
+.env.*
+.streamlit/secrets.toml
+.cursorrules
+
+# macOS
+.DS_Store
+
+# Editors
+.vscode/
+.idea/
+
